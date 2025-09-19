@@ -1,14 +1,17 @@
 
-<h1 align="center">Hola 👋, soy Daniel Bolaños</h1>
-<h3 align="center">Un estudiante Full Stack apasionado</h3>
-
-- 📫 How to reach me **kaledaniebt@gmail.com**
+<h1 align="center">Hey there! I'm Daniel Bolaños</h1>
+### 👨🏻‍💻 &nbsp;About Me
+💡 &nbsp;I enjoy exploring new technologies and developing software solutions, always seeking efficiency and quality.\
+🎓 &nbsp;I am currently completing my degree in Computer Science and Information Technology at Cibertec.\
+🌱 &nbsp;I am constantly growing as a Back-end developer, from database creation to APIs, always seeking to follow software architecture and design patterns.\
+✍️ &nbsp;In my free time, I dedicate myself to redesigning and improving my projects and implementing new animations for the Front-end.\
+📫 &nbsp;How to reach me **kaledaniebt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Programming languages:</h3>
 <p align="left">
   <!-- Lenguajes de programación -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -33,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
 </p>
-<h3 align="left">Frameworks y librerías:</h3>
+<h3 align="left">📚Frameworks and libraries:</h3>
 <p align="left">
   <!-- Frameworks y librerías -->
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
@@ -52,7 +55,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
-<h3 align="left">Bases de datos:</h3>
+<h3 align="left">🗃 Databases:</h3>
 <p align="left">
   <!-- Bases de datos -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -68,7 +71,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
 </p>
-<h3 align="left">Herramientas de Desarrollo:</h3>
+<h3 align="left">🧰 
+Development Tools:</h3>
 <p align="left">
   <!-- Herramientas -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
