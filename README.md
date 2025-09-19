@@ -11,9 +11,9 @@
 <p align="left">
 </p>
 
-<table align="center" style="border-spacing:20px;">
+<table align="center" width="80%" style="border-spacing:20px;">
   <tr>
-        <td>
+        <td align="center" valign="top">
       <h3 align="left">🛠 Programming Languages</h3>
       <p align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
@@ -25,7 +25,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
       </p>
     </td>
-        <td>
+        <td align="center" valign="top">
       <h3 align="left">📚 Frameworks & Libraries</h3>
       <p align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40"/>
@@ -37,7 +37,7 @@
     </td>
   </tr>
   <tr>
-        <td>
+        <td align="center" valign="top">
       <h3 align="left">🗃 Databases</h3>
       <p align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
@@ -46,7 +46,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
       </p>
     </td>
-        <td>
+        <td align="center" valign="top">
       <h3 align="left">🧰 Development Tools</h3>
       <p align="center">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
@@ -60,14 +60,20 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/Daniel-Kyle-BT">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daniel-Kyle-BT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Daniel-Kyle-BT">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daniel-Kyle-BT&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Daniel-Kyle-BT">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Daniel-Kyle-BT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Daniel-Kyle-BT">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Daniel-Kyle-BT&layout=compact&langs_count=8&theme=algolia"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-Kyle-BT
