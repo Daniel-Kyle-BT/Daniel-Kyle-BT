@@ -4,7 +4,7 @@
 💡 &nbsp;I enjoy exploring new technologies and developing software solutions, always seeking efficiency and quality.<br>
 🎓 &nbsp;I am currently completing my degree in Computer Science and Information Technology at Cibertec.<br>
 🌱 &nbsp;I am constantly growing as a Back-end developer, from database creation to APIs, always seeking to follow software architecture and design patterns.<br>
-✍️ &nbsp;In my free time, I dedicate myself to redesigning and improving my projects and implementing new animations for the Front-end.<br>
+✍️ &nbsp;In my free time, I dedicate myself to redesigning and improving my projects.<br>
 📫 &nbsp;How to reach me kaledaniebt@gmail.com
 
 <h3 align="left">Knowledge and skills:</h3>
@@ -18,7 +18,6 @@
       <p align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
       </p>
